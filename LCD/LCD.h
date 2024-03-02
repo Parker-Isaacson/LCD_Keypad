@@ -6,6 +6,8 @@ d0 -> PA10, d1 -> PB3, d2 -> PB5, d3 -> PB4, d4 -> Pb10, d5 -> PA8, d6 -> PA9, d
 
 3v3 to VDD and E
 GND to VSS, V0, and k
+
+This is intended to drive an LCD602 16x2 Display
 */
 #include "stm32f446xx.h"
 
